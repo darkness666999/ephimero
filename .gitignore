@@ -1,0 +1,9 @@
+#general
+build/
+.gradle/
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+*.log
